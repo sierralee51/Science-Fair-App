@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=scienceFairReal
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=console
+comment2.target=boolean\ work(java.util.Scanner)
+comment3.params=f\ fileScan
+comment3.target=double\ localAve(java.io.File,\ java.util.Scanner)
+comment4.params=
+comment4.target=void\ displayAll()
+comment5.params=sum\ quan
+comment5.target=double\ sigFigs(double,\ int)
+numComments=6
